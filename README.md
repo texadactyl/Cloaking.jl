@@ -40,7 +40,7 @@ See the LICENSE file for the GNU licensing information.
 
 See the test program, test/test_cases.jl.
 
-#### CIPHERTEXT ANATOMY
+#### CIPHERTEXT FILE ANATOMY
 
 The ciphertext file created by cloak_file() has the following layout:
 
