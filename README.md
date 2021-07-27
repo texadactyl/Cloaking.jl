@@ -17,7 +17,7 @@ Nettle.jl reference: https://github.com/JuliaCrypto/Nettle.jl
 
 #### REQUIREMENTS
 
-* Julia JIT
+* Julia JIT Compiler
 * Nettle.jl
 
 #### INSTALLATION ####
