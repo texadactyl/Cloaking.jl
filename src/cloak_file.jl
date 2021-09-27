@@ -1,5 +1,5 @@
 #=
-The following code provides a password-based security of a single file or
+The following code provides a password-based protection of a single file or
 a single file system archive file (E.g. .tar.gz).
 =#
 
