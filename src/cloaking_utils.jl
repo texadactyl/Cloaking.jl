@@ -1,5 +1,5 @@
 #=
-Definition file for the cloaking module.
+Utilities for the cloaking module.
 =#
 
 using Random
